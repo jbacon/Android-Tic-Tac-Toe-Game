@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TicTacToeOnAndroid</string>
+    <string name="menuTitle">Tic-Tac-Toe!</string>
+    <string name="playButton">Player vs Player!</string>
+    <string name="playCompButton">Player vs Computer!</string>
+    <string name="settingsButton">Settings</string>
+    <string name="player1ChooseTeamButton">Player1:\nChoose Team</string>
+   <string name="player2ChooseTeamButton">Player2:\nChoose Team</string>
+    <string name="difficultyButton">Difficulty</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="playerWins">Player: 0</string>
+	<string name="computerWins">Computer: 0</string>
+	<string name="player2Wins">Player 2: 0</string>
+	<string name="ties">Ties: 0</string>
+	<string name="resetText">Reset</string>
+	<string name="settingsText">Settings</string>
+	<string name="chooseTeamText">Choose\nTeam</string>
+	<string name="easy">Easy</string>
+	<string name="medium">Medium</string>
+	<string name="hard">Hard</string>
+	<string name="aboutBtn">About</string>
+	<string name="aboutText">NFL Themed Tic Tac Toe App\nVersion 0.2\nDeveloped by Josh Bacon</string>
+</resources>
